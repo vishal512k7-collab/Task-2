@@ -20,7 +20,7 @@
 
   --radius-lg:22px;
   --radius-md:14px;
-  --radius-sm:10px;
+  --radius-sm:8px;
   --shadow-card: 0 24px 60px -20px rgba(7,59,55,0.35);
   --transition-base: .25s cubic-bezier(.4,0,.2,1);
 }
