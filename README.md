@@ -47,8 +47,8 @@ function fakeCheckUsernameEndpoint(username) {
 The endpoint is expected to return `{ "available": true|false }`.
 
 ## Deliverables checklist
-- [x] Responsive Login & Registration UI with animations
-- [x] Mobile-first (tested down to ~360px width)
-- [x] Reusable Navbar & Footer
+- [ ] Responsive Login & Registration UI with animations
+- [ ] Mobile-first (tested down to ~360px width)
+- [ ] Reusable Navbar & Footer
 - [ ] GitHub repo link — add after pushing this folder
 - [ ] 3–5 min demo video — record a walkthrough of sign-in, sign-up, validation, and the username check
