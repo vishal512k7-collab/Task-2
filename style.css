@@ -169,7 +169,7 @@ main{ padding-top: 74px; }
   flex:0 0 34px;
   display:flex; align-items:center; justify-content:center;
   background: rgba(255,255,255,0.12);
-  border-radius: 10px;
+  border-radius: 8px;
   font-size: 1rem;
   color: var(--mint-300);
 }
